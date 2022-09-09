@@ -1,7 +1,7 @@
 ### I'm @yersonargote (Yerson Argote Vázquez) 👋 
 
 
-I'm a university student of Systems Engineering in Colombia. 🇨🇴
+I'm a university student of Systems Engineering in Colombia. :colombia:
 
 I'm passionate about programming and technology.
 
