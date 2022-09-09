@@ -1,11 +1,12 @@
 # yersonargote
 
+
 I'm a university student of Systems Engineering in Colombia.
 
-I :heart: python and I'm currently learning backend development.
+I'm currently learning design patterns and backend development.
 
 I've played with:
 
-- Python
-- Golang
-- Java
+- ***Python***
+- ***Golang***
+- ***Java***
