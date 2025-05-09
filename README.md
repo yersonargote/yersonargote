@@ -1,18 +1,32 @@
-### Hey! I'm Yerson Argote Vázquez (@yersonargote) 👋
+### Hey! I'm Yerson Argote (@yersonargote) 👋
 
-I'm currently pursuing my degree in Systems Engineering from a renowned university in Colombia. My academic journey has allowed me to delve into the fascinating realms of machine learning, data science, and backend development.
+I'm a **Full Stack Web Developer** with over 2 years of experience crafting modern, scalable web applications. My expertise lies in JavaScript technologies, particularly **Next.js, React.js, and Node.js**, and I'm passionate about delivering exceptional user experiences, optimizing for performance, and ensuring responsive design.
 
-Over the years, I've honed my skills by building a variety of applications and tools, exploring a wide spectrum of programming languages, frameworks, and technologies. I'm always eager to learn and apply new concepts to solve complex problems.
+---
 
-Here's a glimpse of my technical expertise:
+🚀 **What I'm Currently Focused On:**
 
-- Python: Proficient in FastAPI, Flask, along with data manipulation tools such as pandas, numpy, matplotlib, among others :snake:
-- Java: Skilled in Spring Boot :robot:
+*   Building end-to-end software solutions at **SparkyDevs S.A.S**.
+*   Developing innovative web applications and platforms, leveraging the latest in web technologies.
+*   Continuously learning and applying best practices in full-stack development.
 
+---
 
-Feel free to connect with me on:
+🛠️ **My Tech Stack & Skills:**
 
-- [Github](https://github.com/yersonargote) 🎯 
-- [Linkedin](https://linkedin.com/in/yerson-argote-b90991184) 👷‍♂️
+*   **Frontend:** Next.js, React.js, Astro, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3
+*   **Backend:** Node.js, Python, Go
+*   **Databases:** PostgreSQL
+*   **Tools & Platforms:** Git, Vercel, Cloudflare, AI SDK, Tanstack Query, RainbowKit
+*   **Methodologies:** Agile, Responsive Design, Performance Optimization, UX/UI Principles
 
-I'm always open to collaborating on interesting projects and innovative ideas. Looking forward to growing and learning together in this amazing community!
+---
+
+🔗 **Let's Connect:**
+
+*   **GitHub:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargote) 🎯
+*   **Freelance Github:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargotev) 🎯
+*   **LinkedIn:** [Yerson Argote](https://www.linkedin.com/in/yersonargote/) 👷‍♂️
+*   **Portfolio/Company:** [SparkyDevs](https://sparkydevs.com) 🌐
+
+I'm always open to discussing new projects, collaboration opportunities, or just chatting about tech. Looking forward to connecting and growing together in this amazing community!
