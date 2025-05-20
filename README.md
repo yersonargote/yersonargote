@@ -1,5 +1,8 @@
 ### Hey! I'm Yerson Argote (@yersonargote) 👋
 
+
+> ### Freelance and Personal Github: [yersonargotev](https://github.com/yersonargotev) 🎯
+
 I'm a **Full Stack Web Developer** with over 2 years of experience crafting modern, scalable web applications. My expertise lies in JavaScript technologies, particularly **Next.js, React.js, and Node.js**, and I'm passionate about delivering exceptional user experiences, optimizing for performance, and ensuring responsive design.
 
 ---
@@ -25,7 +28,6 @@ I'm a **Full Stack Web Developer** with over 2 years of experience crafting mode
 🔗 **Let's Connect:**
 
 *   **GitHub:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargote) 🎯
-*   **Freelance Github:** [You're already here! Feel free to explore my repositories.](https://github.com/yersonargotev) 🎯
 *   **LinkedIn:** [Yerson Argote](https://www.linkedin.com/in/yersonargote/) 👷‍♂️
 *   **Portfolio/Company:** [SparkyDevs](https://sparkydevs.com) 🌐
 
